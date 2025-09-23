@@ -8,4 +8,4 @@ Feel free to point out any corrections or improvements by opening an issue.
 
 #### 2025
 
-[Monday, September 22](notes/2025-09-23.md)
+[Monday, September 22](notes/2025-09-22.md)
