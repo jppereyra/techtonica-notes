@@ -6,5 +6,6 @@ Feel free to point out any corrections or improvements by opening an issue.
 
 ### Index
 
-**2025**
+#### 2025
+
 [Monday, September 22](notes/2025-09-23.md)
